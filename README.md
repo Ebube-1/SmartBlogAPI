@@ -1,5 +1,5 @@
 # SmartBlogAPI
-A blog API where users can make posts and comment on tWelcome to our blogging platform, where you can create an account and start sharing your thoughts and experiences with the world. Whether you're a seasoned writer or just starting out, our user-friendly interface makes it easy to create and publish posts in no time.
+Welcome to our blogging platform, where you can create an account and start sharing your thoughts and experiences with the world. Whether you're a seasoned writer or just starting out, our user-friendly interface makes it easy to create and publish posts in no time.
 
 Our platform is designed to foster community and engagement, allowing other users to comment on your posts and share their own perspectives. You can also follow other bloggers, stay up-to-date with their latest posts, and build a network of like-minded individuals.
 
@@ -39,7 +39,3 @@ Above all, we believe in the power of words to inspire, inform, and connect peop
 |    Get        |     /posts/{postId}/comments/{id}      |     Endpoint to get a comment by id          |
 |    Put        |     /posts/{postId}/comments/{id}      |     Endpoint to update a comment by id       |
 |    Delete     |     /posts/{postId}/comments/{id}      |     Endpoint to delete a comment by id       |
-
-## Service
-
-
