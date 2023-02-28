@@ -39,3 +39,11 @@ Above all, we believe in the power of words to inspire, inform, and connect peop
 |    Get        |     /posts/{postId}/comments/{id}      |     Endpoint to get a comment by id          |
 |    Put        |     /posts/{postId}/comments/{id}      |     Endpoint to update a comment by id       |
 |    Delete     |     /posts/{postId}/comments/{id}      |     Endpoint to delete a comment by id       |
+
+### UserManagamentController(/user-management)
+
+|    Method     |                Path                    |              Description                       |
+| ------------- |               -------------            |             -------------                      |
+|    Post       |             /forgot-password           |     Endpoint to send email to reset password   |
+|    Post       |             /reset-password            |     Endpoint to  reset password                |
+
