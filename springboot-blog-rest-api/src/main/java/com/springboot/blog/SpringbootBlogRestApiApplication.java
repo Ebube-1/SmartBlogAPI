@@ -22,10 +22,10 @@ public class SpringbootBlogRestApiApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
 
-		List<String> list = List.of("John", "James", "Mark","Joanna","Henry");
-		List<String> result = list.stream().filter((e) -> e.startsWith("J")).collect(Collectors.toList());
-		System.out.println(result);
-		//SpringApplication.run(SpringbootBlogRestApiApplication.class, args);
+//		List<String> list = List.of("John", "James", "Mark","Joanna","Henry");
+//		List<String> result = list.stream().filter((e) -> e.startsWith("J")).collect(Collectors.toList());
+//		System.out.println(result);
+		SpringApplication.run(SpringbootBlogRestApiApplication.class, args);
 	}
 
 	@Autowired
