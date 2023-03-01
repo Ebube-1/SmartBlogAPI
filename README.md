@@ -15,8 +15,8 @@ Above all, we believe in the power of words to inspire, inform, and connect peop
 
 |    Method     |       Path         |    Description                           |
 | ------------- |    -------------   |   -------------                          |
-|    Post       |       /signin      |   Endpoint to register on this blog      |
-|    Post       |       /signup      |   Endpoint to login to this blog         |
+|    Post       |       /signup      |   Endpoint to register on this blog      |
+|    Post       |       /signin      |   Endpoint to login to this blog         |
 
 
 ### PostController(api/v1/post)
